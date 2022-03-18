@@ -14,4 +14,4 @@ A simple pig or dice game. A mutli-player game.
 
 ![image](https://user-images.githubusercontent.com/72920953/158943406-6d4f6e0d-7a08-46dd-a6ff-a3f1e2c40f42.png)
 
-This a part of the coding challenge exercise from "The Complete JavaScript Course 2021"
+This a part of the coding challenge exercise from "The Complete JavaScript Course 2021" course.
