@@ -2,6 +2,10 @@
 
 A simple pig or dice game. A mutli-player game.
 
+- Players take turns to roll a single dice as many times as they wish.
+- Adding all roll results to a running total.
+- But they lose their gained score for the turn if they roll a 1.
+
 ## Preview
 
 ![image](https://user-images.githubusercontent.com/72920953/158943268-47f6850d-783f-4077-9ec9-ebc740fc1577.png)
