@@ -5,8 +5,16 @@ A simple pig or dice game. A mutli-player game.
 - Players take turns to roll a single dice as many times as they wish.
 - Adding all roll results to a running total.
 - But they lose their gained score for the turn if they roll a 1.
+- First player to reach 100 points, wins the game.
 
 ## Preview
+- Game start
+
+![gif](https://media.giphy.com/media/OJ0HyfqUS4WCYWx3Wb/giphy.gif)
+
+- Player that reaches 100 wins
+
+![gif](https://media.giphy.com/media/MSuMUPJJwcNf9ToXYH/giphy.gif)
 
 ![image](https://user-images.githubusercontent.com/72920953/158943268-47f6850d-783f-4077-9ec9-ebc740fc1577.png)
 
